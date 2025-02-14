@@ -67,12 +67,13 @@ Welcome to the Telegram Echo Bot!
 
 Choose an option:
 /start
->>> Hi, John Doe
->>> Welcome to the First Echo bot!
+
+Bot's message >>> Hi, John Doe
+Bot's message >>> Welcome to the First Echo bot!
 
 Text message echo:
->>> Hello Bot
->>> Hello Bot
+User' message >>> Hello Bot
+Bot's message >>> Hello Bot
 ```
 
 ## Code Structure
